@@ -1,7 +1,7 @@
 import React from "react"
 
 function card(props) {
-  const { cardTitle, cardSubtitle, link } = props
+  const { cardTitle, cardSubtitle, link, git } = props
   return (
     <div className="col-lg-4">
       <div className="card mx-3 my-5">
@@ -10,6 +10,9 @@ function card(props) {
           <p className="card-text">{cardSubtitle}</p>
           <a href={link} className="card-link">
             See
+          </a>
+          <a href={git} className="card-link">
+            Source
           </a>
         </div>
       </div>

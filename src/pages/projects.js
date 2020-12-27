@@ -22,6 +22,7 @@ function Projects({ data }) {
               cardTitle={node.title}
               cardSubtitle={node.subtitle}
               link={node.link}
+              git={node.git}
               key={node.id}
             />
           )
@@ -41,6 +42,7 @@ export const query = graphql`
           title
           subtitle
           link
+          git
           id
         }
       }
