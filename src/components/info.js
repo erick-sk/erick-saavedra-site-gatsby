@@ -18,8 +18,8 @@ export default function info() {
       </div>
       <div className="h1 code mt-4 mb-3">async {"{"}</div>
       <div className="text-muted mx-5 my-4 h3 text-justify info">
-        A Software Developer, IoT Geek and Cat Lover.
-        <p>"When virtue has slept, she will get up more refreshed."</p>
+        <p>A Software Developer, IoT Geek and Cat Lover.</p>
+        "When virtue has slept, she will get up more refreshed."
         <p>- Friedrich Nietzsche</p>
       </div>
       <div className="h1 code mt-2 mb-3">{"}"}</div>

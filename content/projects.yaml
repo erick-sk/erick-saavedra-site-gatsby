@@ -1,26 +1,31 @@
-- title: Phrases Breackingbad
-  subtitle: Do you like breackingbad? Here you have the best phrases of the series.
-  link: https://brave-euler-a39080.netlify.app
-  git: https://github.com/erick-sk/breackingbad
+- title: Breakingbad Phrases
+  subtitle: Do you like breakingbad? Here you have the best phrases of the series.
+  link: https://breakingbad.ericksaavedra.dev
+  git: https://github.com/erick-sk/breakingbad
 
 - title: Cryptocurrency
   subtitle: Do you have any bitcoin? Find out their value quickly.
-  link: https://kind-mahavira-674967.netlify.app/
+  link: https://crypto.ericksaavedra.dev
   git: https://github.com/erick-sk/crypto-currencies
 
-- title: Car Insurance Sales
+- title: Open Weather
+  subtitle: You can quickly check the climate of any city or country.
+  link: https://weather.ericksaavedra.dev
+  git: https://github.com/erick-sk/open-weather
+
+- title: Car Insurance
   subtitle: Small application very useful to calculate car insurance prices.
-  link: https://confident-mccarthy-f8289b.netlify.app/
-  git: https://github.com/erick-sk/quote
+  link: https://carinsurance.ericksaavedra.dev/
+  git: https://github.com/erick-sk/car-insurence
 
 - title: Budget App
   subtitle: Here you can register your weekly budget and expenses.
-  link: https://frosty-bose-c0a732.netlify.app/
+  link: https://budget-erick-sk.netlify.app/
   git: https://github.com/erick-sk/budget
 
 - title: Dating App
   subtitle: Thinking about managing veterinary appointments.
-  link: https://musing-dijkstra-16f709.netlify.app/
+  link: https://dating-erick-sk.netlify.app/
   git: https://github.com/erick-sk/dating
 
 - title: Server Dth11
@@ -29,5 +34,5 @@
 
 - title: 404 Not Found
   subtitle: Template for 404 error pages.
-  link: https://naughty-morse-48fac0.netlify.app
-  git: https://github.com/erick-sk/404-not-found
+  link: 404notfound-erick-sk.netlify.app
+  git: https://github.com/erick-sk/404-not-found-challenge
